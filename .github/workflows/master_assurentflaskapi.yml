@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'assurentflaskapi'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ddbc96b5802e407d850f23effad2f6a5 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d35912ca68fd484aa64e78eecaff99d0 }}
         package: './myapp.zip'
