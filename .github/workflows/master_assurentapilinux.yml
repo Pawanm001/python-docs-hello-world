@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'assurentapilinux'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_80d87e07a28a46a0b91a8952e3bcecd1 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b892be2b6e6f49f69bfebcf10206f016 }}
