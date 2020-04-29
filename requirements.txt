@@ -1,5 +1,6 @@
 click
 Flask
+flask_cors
 itsdangerous
 Jinja2
 MarkupSafe
